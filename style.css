@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+input{
+    width: 400px;
+}
+#sort{
+    display:none;
+}
